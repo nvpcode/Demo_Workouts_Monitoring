@@ -6,6 +6,11 @@ A video-based workout monitoring system using YOLO pose estimation to count push
 
 ---
 
+### Demo
+▶️ [Watch the demo video](https://drive.google.com/file/d/1Eu-Br9U-Nc4YbIWeoquwa_u47q29-rC2/view?usp=drive_link)
+
+---
+
 ### Requirements
 
 - Python 3.8+
