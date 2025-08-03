@@ -1,6 +1,6 @@
 # README.md
 
-## Workout Monitoring Project
+## Count Push-Ups
 
 A video-based workout monitoring system using YOLO pose estimation to count push-ups and display exercise stage.
 
